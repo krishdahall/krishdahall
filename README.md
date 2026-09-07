@@ -15,7 +15,7 @@
 ---
 
 ### About Me
-I'm a developer and student passionate about building high-performance applications at the intersection of **Computer Science** and **Quantitative Finance**. My work focuses on financial algorithms, data analysis, and software engineering.
+I'm a developer and student passionate about building high-performance applications at the intersection of **Computer Science** and **Finance Engineering**. My work focuses on financial algorithms, data analysis, and software engineering.
 
 - **Focus Areas:** Trading, Data Structures, & Algorithms
 - **Current Tech Stack:** Python, C++, Pine Script, Git
