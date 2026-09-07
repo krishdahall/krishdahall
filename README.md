@@ -1,4 +1,18 @@
-# Hi there, I'm Krish Dahal 
+<div align="center">
+  <h1>Hi there, I'm Krish Dahal 👋</h1>
+  <p><em>Computer Science & Quantitative Finance Enthusiast</em></p>
+
+  <!-- Dynamic Tech Stack Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/TradingView-13161B?style=for-the-badge&logo=tradingview&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </p>
+</div>
+
+---
 
 ### About Me
 I'm a developer and student passionate about building high-performance applications at the intersection of **Computer Science** and **Quantitative Finance**. My work focuses on financial algorithms, data analysis, and software engineering.
