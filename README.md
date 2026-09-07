@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi there, I'm Krish Dahal 👋</h1>
-  <p><em>Computer Science & Quantitative Finance Enthusiast</em></p>
+  <h1>Hi there, I'm Krish Dahal </h1>
+  <p><em>Computer Science & Financial Engineering Enthusiast</em></p>
 
   <!-- Dynamic Tech Stack Badges -->
   <p>
@@ -20,6 +20,21 @@ I'm a developer and student passionate about building high-performance applicati
 - **Focus Areas:** Trading, Data Structures, & Algorithms
 - **Current Tech Stack:** Python, C++, Pine Script, Git
 - **Goals:** Pursuing studies in Computer Science & Financial Engineering, building open-source quant tools
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="150" />
+</div>
 
 ---
 
