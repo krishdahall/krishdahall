@@ -17,9 +17,9 @@
 ### About Me
 I'm a developer and student passionate about building high-performance applications at the intersection of **Computer Science** and **Finance Engineering**. My work focuses on financial algorithms, data analysis, and software engineering.
 
-- **Focus Areas:** Trading, Data Structures, & Algorithms
-- **Current Tech Stack:** Python, C++, Pine Script, Git
-- **Goals:** Pursuing studies in Computer Science & Financial Engineering, building open-source quant tools
+- **Focus Areas:** Trading, Data Structures, Website Dev., & Algorithms
+- **Current Tech Stack:** Python, C++, Codex, Claude, Git
+- **Goals:** Pursuing studies in Computer Science & Financial Engineering, building open-source quant tools & website development
 
 ---
 
