@@ -37,3 +37,4 @@ I'm a developer and student passionate about building high-performance applicati
 
 - **Technical Indicators & Quant Scripts:** Custom TradingView indicators including order flow, VWAP analysis, and automated market structure detection.
 - **Algorithm Development:** Exploring backtesting models, statistical arbitrage strategies, and execution logic in Python and C++.
+- **Full-Stack Web Engineering:** Developing scalable web platforms, custom UI/UX design systems, and performant web architecture using modern frontend and backend technologies.
